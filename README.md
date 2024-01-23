@@ -107,15 +107,9 @@ DELETE `http://localhost:8080/api/bus/book/${id}
 
 
 
-```
 
 
 
 
 
  
-| `Authors` |
-| :-------: | 
-
- 
- [@bire210](https://github.com/bire210) 
